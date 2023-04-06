@@ -6,7 +6,10 @@ int main() {
 	std::cout << "seconfdgfss" << std::endl;
 	
 	/*
-	 * second changes in beta
+	 * second changes in bet
+	 *
+	 * changes in master branch
+	 *
 	 * */
 	return 0;
 }
